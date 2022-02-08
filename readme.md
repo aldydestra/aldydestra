@@ -5,7 +5,7 @@
        My GitHub Stats
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${aldydestra}.${https://github.com/aldydestra/aldydestra})
 
       
 
