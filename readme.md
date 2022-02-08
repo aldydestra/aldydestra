@@ -10,6 +10,6 @@
 
        My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldydestra&layout=compact&hide_border=true)
 
 
