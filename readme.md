@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${aldydestra}.${https://github.com/aldydestra/aldydestra})
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aldydestra&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${aldydestra}.${https://github.com/aldydestra/aldydestra}&left_color=green&right_color=red)
       
 
       
