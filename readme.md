@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${aldydestra}.${https://github.com/aldydestra/aldydestra})
+![](https://ghvc.kabelkultur.se?username=aldydestra&logo=github)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${aldydestra}.${https://github.com/aldydestra/aldydestra}&left_color=green&right_color=red)
       
 
