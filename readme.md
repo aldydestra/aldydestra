@@ -1,13 +1,4 @@
-![](https://ghvc.kabelkultur.se?username=aldydestra&logo=github)
-      
-
-      
-      
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=aldydestra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-      
-
-      
+![](https://ghvc.kabelkultur.se?username=aldydestra&logo=github)     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldydestra&layout=compact&hide_border=true)
 
